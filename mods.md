@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Mod Glossary
 permalink: /mods
 ---
 ## Table of contents
