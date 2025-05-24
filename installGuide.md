@@ -12,8 +12,7 @@ permalink: /instal-guide
 ---
 
 ## Installation Guide
-1. Download the latest version of the pack from here:
-    * https://drive.google.com/drive/folders/1j-Hn7Fqc0c-mggCLSiUcnRHcINrI9IMi?usp=sharing 
+1. Download the latest version of the pack from [Here](https://drive.google.com/drive/folders/1j-Hn7Fqc0c-mggCLSiUcnRHcINrI9IMi?usp=sharing)
 2. Download and Install the PrismLauncher. Most people will want the Windows 10/11 .exe version.
     * Try to install it to a faster drive (SSD) if you have one.
 3. Open PrismLauncher, it will ask you to authorize with your Microsoft account into your in order to properly open and move past the Minecraft Launcher.
@@ -21,7 +20,7 @@ permalink: /instal-guide
     * Increase the maximum memory allocation if you can. Recommended is 8GB (8192 MiB)
         * You may be able to get away with less- performance is untested on lower RAM allocation. Would suggest not going lower than 4GB.
     * Java Runtime: Do Auto-Detect. Pick any Java 17 version.
-        * **IF YOU DO NOT HAVE JAVA 17 IN THE AUTO-DETECT LIST**, you will need to go download and install it then repeat this step again: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html 
+        * **IF YOU DO NOT HAVE JAVA 17 IN THE AUTO-DETECT LIST**, you will need to go [download and install it]() then repeat this step again: 
 5. On the main PrismLauncher menu, click Add Instance, then go to the Import tab. Browse for the modpack downloaded in step 1 then hit okay.
 
 
